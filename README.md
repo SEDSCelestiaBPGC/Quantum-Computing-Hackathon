@@ -41,3 +41,16 @@ If you do not want to install Anaconda as in the video, and just use Jupyter, yo
 https://jupyter.org/
 
 https://jupyter.org/install.html
+
+
+# Submitting your solutions
+
+To submit your solutions:
+
+1. Fork (or duplicate) this repository to your GitHub account.
+2. Work on the solutions to the tasks.
+3. Commit your work to your forked repository.
+4. To submit your project, submit the link to your repository to a form that will be sent at a later time.
+
+Your repository has to be made public at the time of the Hackathon end for us to be able to judge your solutions. We don't recommend making your work public early during the Hackathon, so as not to tempt other teams to borrow.
+
