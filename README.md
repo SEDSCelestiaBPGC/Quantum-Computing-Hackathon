@@ -2,7 +2,11 @@
 This is the repository for QC hackathon organized at BITS, Goa.
 
 The questions will be released at 11:30pm on 8 July 2021.
+</p align="center">
+  <img src = "https://user-images.githubusercontent.com/54679619/124895881-93d59c00-dffa-11eb-8fc2-93a64ccff37a.png"/>
+</p>
 
+# Getting Started
 For you to get started with Qiskit, installing Qiskit, learning the basics of quantum computing, etc. just refer to these resources:
 
 Getting Started
