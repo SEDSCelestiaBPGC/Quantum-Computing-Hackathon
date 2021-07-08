@@ -1,7 +1,7 @@
 # Quantum-Computing-Hackathon
 This is the repository for QC hackathon organized at BITS, Goa.
 
-The questions are live now. Please clone the repo locally before viewing the problems. There is some issue with markdown cells in the online GitHub viewwer. Details for submission are mentioned below.
+The questions are live now. Please clone the repo locally before viewing the problems. There is some issue with markdown cells in the online GitHub viewer. Details for submission are mentioned below.
 </p align="center">
   <img src = "https://user-images.githubusercontent.com/54679619/124895881-93d59c00-dffa-11eb-8fc2-93a64ccff37a.png"/>
 </p>
@@ -44,6 +44,8 @@ https://jupyter.org/install.html
 
 
 # Submitting your solutions
+
+**UPDATE:** Before submitting the solutions, please clone the repo locally and then make the changes, since the markdown cells in GitHub online viewer has some problem. 
 
 To submit your solutions:
 
