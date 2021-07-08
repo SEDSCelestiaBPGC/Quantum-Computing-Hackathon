@@ -33,9 +33,11 @@ https://colab.research.google.com/drive/1QZ-z8y1CENQOwoR9-7j7UNQUblNw_Yoc?usp=sh
 # NOTE: 
 The challenges will be solved on Jupyter notebooks, using Qiskit, IBM's open-source Python library for quantum computing.
 If you are unfamiliar with Qiskit, you can refer to the following video to install Qiskit: 
+
 https://www.youtube.com/watch?v=M4EkW4VwhcI&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY&index=3&t=1s
 
 If you do not want to install Anaconda as in the video, and just use Jupyter, you can refer to the following-
+
 https://jupyter.org/
 
 https://jupyter.org/install.html
